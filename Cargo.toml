@@ -9,7 +9,7 @@ keywords = ["derive", "deref"]
 repository = "https://github.com/sgrif/derive_deref"
 
 [dependencies]
-syn = "1.0.5"
+syn = "1.0.13"
 quote = "1.0.2"
 proc-macro2 = "1.0.5"
 
